@@ -1,4 +1,4 @@
 ## juego
    pvp
-#tipo
+##tipo
    pvz
