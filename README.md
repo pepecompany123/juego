@@ -1,2 +1,4 @@
-# juego
-e
+## juego
+   pvp
+#tipo
+   pvz
